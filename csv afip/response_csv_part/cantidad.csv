@@ -1,0 +1,8 @@
+,IUCA,Texto,Etiqueta
+165,23,¿Cuántos empleados puedo tener?,cantidad
+169,23,¿Cuál es la cantidad máxima de empleados que se pueden tener por categoría?,cantidad
+171,23,¿Qué cantidad de empleados puedo tener?,cantidad
+202,27,Si soy monotributista ¿Cuál es el precio máximo por unidad de venta?,cantidad
+203,27,¿Cual es el tope máximo en el precio por unidad?,cantidad
+204,27,¿Cual es el límite en el precio de los bienes que vendo para ser Monotributista?,cantidad
+1251,27,¿Cuál es el precio máximo unitario de venta?,cantidad

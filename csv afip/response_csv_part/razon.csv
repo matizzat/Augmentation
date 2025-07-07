@@ -1,0 +1,97 @@
+,IUCA,Texto,Etiqueta
+9,1,¿Por qué puedo quedar excluido del Monotributo?,razon
+12,1,¿Cuáles son las causales de exclusión del Monotributo?,razon
+13,1,¿Con qué motivos me pueden dejar fuera del Monotributo?,razon
+14,1,¿Cuándo puedo llegar a quedar excluido?,razon
+15,1,¿En qué casos puedo quedar excluido del monotributo?,razon
+97,13,¿Qué conceptos del Monotributo son obligatorios?,razon
+98,13,¿Cuáles son los conceptos exceptuados de pagar en el Monotributo?,razon
+99,13,¿En qué casos no debo pagar todos los conceptos del Monotributo?,razon
+100,13,¿Cuáles son las excepciones para el pago de previsionales?,razon
+132,18,¿Cuándo debo considerar el parámetro de energía eléctrica?,razon
+133,18,"¿En qué caso no debo considerar declarar la ""energía eléctrica""?",razon
+134,18,¿Qué actividades no consideran el parámetro de la energía electrica?,razon
+135,18,¿Cuándo tengo que tener en cuenta el parámetro de la electricidad?,razon
+139,19,¿Cuándo debo considerar el parámetro de superficie?,razon
+140,19,"¿En qué caso no se considera la ""superficie afectada""?",razon
+141,19,¿Qué actividades no consideran el parámetro de la superficie afectada?,razon
+142,19,¿Cuándo hay que tener en cuenta la superficie afectada?,razon
+347,44,¿En qué casos no es obligatorio constituir domicilio fiscal electrónico?,razon
+352,44,¿Cuándo puedo exceptuarme del domicilio fiscal electrónico siendo monotributista?,razon
+353,44,¿Quienes no necesitan constituir el domicilio fiscal electrónico?,razon
+446,55,¿Para qué uso el código único de revista?,razon
+447,55,¿Para qué sirve el CUR?,razon
+484,60,¿En qué casos se modifica la credencial de pago?,razon
+485,60,¿Qué datos del Monotributo generan la credencial de pago?,razon
+487,60,¿Cuándo se debe sustituir la credencial de pago?,razon
+490,60,¿Qué datos pueden llevar a tener que sustituir la credencial de pago?,razon
+503,62,¿En qué casos considera AFIP que cambié mi actividad?,razon
+634,78,¿Cuándo estoy obligado a recategorizarme?,razon
+635,78,¿Cuáles son las excepciones a la recategorización?,razon
+636,78,¿En qué situaciones los monotributistas no deben recategorizarse?,razon
+637,78,¿En qué casos los monotributistas se encuentran exceptuados de recategorizarse?,razon
+638,78,¿Qué deben cumplir los monotributistas para no efectuar la recategorización?,razon
+639,78,¿En qué situaciones los monotributistas están exceptuados de recategorizarse?,razon
+640,78,¿En qué casos los monotributistas no están obligados a realizar la recategorización?,razon
+663,82,¿Cuándo me puede recategorizar AFIP?,razon
+667,82,¿Qué se debe cumplir para proceder a la recategorización de oficio?,razon
+668,82,¿En qué casos se continuará con la recategorización de oficio?,razon
+669,82,¿Qué se debe cumplir para continuar con la recategorización de oficio?,razon
+670,82,¿Qué debe suceder para proceder a la recategorización de oficio?,razon
+671,82,¿Qué debe suceder para continuar a la recategorización de oficio?,razon
+730,90,¿Qué caracterísiticas deben tener las personas para ser monotributistas?,razon
+731,90,¿Qué  caratacterísticas se debe tener  para ser monotributistas?,razon
+732,90,¿Qué personas pueden ser monotributistas?,razon
+733,90,¿Qué  cualidades se debe tener  para ser monotributistas?,razon
+734,90,¿Qué  ciudadanos pueden ser monotributistas?,razon
+735,90,¿Qué  caratacterísticas deben cumplir los constribuyentes  para ser monotributistas?,razon
+736,91,¿Qué requisitos debe cumplir una persona para darse de alta en el Monotributo?,razon
+737,91,¿Cuáles son las condiciones para inscribirse en el monotributo?,razon
+739,91,¿Qué requisitos se deden cumplir para poder inscribirse en el Régimen de Monotributo?,razon
+741,91,¿Cuáles son los requerimientos necesarios para poder inscribirse en el Régimen de Monotributo?,razon
+742,91,¿Qué se necesita para poder inscribirse en el Régimen de Monotributo?,razon
+744,92,¿Cuáles son las actividades que no puedo realizar si quiero ser Monotributista?,razon
+745,92,¿Hay actividades que están excluidas del Monotributo?,razon
+746,92,¿Puedo realizar cualquier actividad siendo Monotributista?,razon
+747,92,¿Cuáles actividades se encuentran excluidas del monotributo?,razon
+748,92,¿Cuáles actividades no forman parte del monotributo?,razon
+749,92,¿Qué actividades se encuentran exceptuadas del monotributo?,razon
+750,92,¿Qué ocupaciones se encuentran exceptuadas del monotributo?,razon
+767,94,¿En qué casos se puede realizar exportaciones siendo monotributista?,razon
+835,102,¿Cuáles son las condiciones que debo cumplir para ser Monotributista en caso de ser propietario de una industria?,razon
+868,109,¿Cuándo me corresponde hacer la declaración jurada del impuesto a las ganancias?,razon
+870,109,¿En qué casos siendo monotributista debo presentar la declaración jurada del impuesto a las ganancias?,razon
+872,109,¿Cuándo debo presentar la declaración jurada del impuesto a ganancias?,razon
+908,116,¿En qué casos puedo pagar en efectivo?,razon
+910,116,¿Cuando se puede pagar en efectivo?,razon
+911,116,¿En qué casos estoy exceptuado de cumplir con las obligaciones de modo electrónico?,razon
+967,128,¿En qué casos me reintegran el componente impositivo?,razon
+968,128,¿Qué requisitos debo cumplir para que me reitegren el componente impositivo?,razon
+1092,143,¿En qué casos puedo hacer facturas manuales?,razon
+1093,143,¿Cuándo puedo hacer facturas electrónicas?,razon
+1094,143,¿En qué casos estoy obligado a emitir comprobante manual?,razon
+1160,152,¿Quiénes son los sujetos exceptuados de hacer facturas?,razon
+1161,152,¿Quienes pueden abstenerse de emitir comprobantes de forma electrónica?,razon
+1164,152,¿Quienes pueden no emitir comprobantes electrónicos?,razon
+1166,152,¿Qué personas se exceptúan de emitir comprobantes electrónicos?,razon
+1176,154,¿Cuáles son las excepciones de la emisión de comprobantes electrónicos?,razon
+1179,154,¿Qué operaciones no requieren la emisión de comprobante electrónico?,razon
+1180,154,¿Qué operaciones están excluídas del comprobante electrónico?,razon
+1181,154,¿Cuáles operaciones no están obligadas a la emisión de comprobante electrónico?,razon
+1224,1,¿En qué situaciones se producirá la exclusión del Monotributo?,razon
+1230,7,¿En qué casos se produce la baja automática en el Monotributo?,razon
+1237,13,¿Quiénes se encuentran exceptuados de ingresar las cotizaciones previsionales fijas?,razon
+1242,18,"¿En qué casos no se tendrá en cuenta el parámetro ""energía eléctrica""?",razon
+1243,19,"¿En qué casos no se tendrá en cuenta el parámetro ""superficie afectada""?",razon
+1268,44,¿Quiénes se encuentra exceptuados de constituir el domicilio fiscal electrónico?,razon
+1284,60,¿Cuáles son las modificaciones de datos que implican una sustitución de la credencial para el pago?,razon
+1302,78,¿En qué casos los monotributistas no se encuentran obligados a realizar la recategorización?,razon
+1306,82,¿En qué casos procederá la recategorización de oficio?,razon
+1314,90,¿Quiénes pueden ser monotributistas?,razon
+1315,91,¿Cuáles son los requisitos para poder inscribirse en el Régimen de Monotributo?,razon
+1316,92,¿Qué actividades se encuentran excluidas del monotributo?,razon
+1334,109,¿En qué casos deberá presentar un monotributista la declaración jurada del impuesto a las ganancias?,razon
+1341,116,"¿Qué contribuyentes monotributistas se encuentran exceptuados de cumplir sus obligaciones mediante la modalidades de pago por transferencia electrónica de fondos, debito y/ó pago electrónico?",razon
+1368,143,¿Quiénes se encuentran obligados a emitir comprobantes de forma manual?,razon
+1377,152,¿Qué sujetos se encuentran exceptuados de emitir comprobantes electrónicos?,razon
+1379,154,¿Cuáles son las operaciones excluidas de la obligación de emisión de comprobantes electrónicos?,razon

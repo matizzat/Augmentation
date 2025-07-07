@@ -1,0 +1,116 @@
+,IUCA,Texto,Etiqueta
+24,3,"Si me di de baja el monotributo por que ya no realizaba la actividad, ¿Cuánto tiempo tengo que esperar para darme de alta nuevamente?",temporal
+26,3,"Si me di de baja el monotributo porque ya no realizaba la actividad, ¿Cuánto tiempo tengo que esperar para darme de alta nuevamente?",temporal
+31,4,Si AFIP me excluye del Monotributo ¿Cuándo puedo volver a darme de alta?,temporal
+32,4,"En caso de quedar excluido del Monotributo, ¿Cuándo puedo volver a serlo?",temporal
+33,4,¿Cuánto tiempo tiene que trancurrir desde que quedé excluido del Monotributo hasta que pueda volver a adherirme?,temporal
+34,4,"Si me excluyeron del monotributo, ¿qué tiempo debo esperar para darme de alta otra vez?",temporal
+35,4,¿Cuánto tengo que esperar para adherirme al monotributo nuevamente luego de quedar excluido?,temporal
+36,4,¿Cuánto tiempo tiene que pasar para poderme inscribir de nuevo al monotributo porque afip me excluyó?,temporal
+37,4,Si afip me dio de baja por exclusión ¿durante cuánto tiempo no me puedo volver a adherir?,temporal
+40,5,Si era Monotributista y luego me pasé a Responsable Incripto ¿Cuándo puedo volver a ser Monotributista?,temporal
+41,5,Si renuncié al monotributo y ahora soy responsable inscripto ¿cuánto tengo que esperar para ser monotributista de nuevo?,temporal
+43,5,En caso de renunciar ¿cuánto tengo que esperar para optar de nuevo por el monotributo?,temporal
+45,5,Si cambié de regimen y dejé de ser monotributista ¿cuánto tiempo tiene que pasar para que pueda volver a serlo?,temporal
+46,6,¿Desde cuándo tiene vigencia la baja del Monotributo?,temporal
+47,6,Si me doy de baja del Monotributo ¿Desde cuándo comienza a correr?,temporal
+48,6,Si me doy de baja del Monotributo ¿Hasta qué fecha sigo siendo Monotributista?,temporal
+49,6,¿Cuándo se refleja en el sistema la baja del monotributo?,temporal
+50,6,¿A partir de cuándo tiene efecto la cancelación del monotributo si renuncié?,temporal
+51,6,¿Cuándo tendrá efecto la solicitud de baja por cese de actividad?,temporal
+52,6,¿Desde qué momento se hace efectiva la baja del monotributo?,temporal
+60,8,¿Desde cuándo tiene vigencia la baja del Monotributo por exclusión?,temporal
+61,8,Si me excluyen del Monotributo ¿Desde cuándo comienza a tener vigencia?,temporal
+62,8,Si me excluyen del Monotributo ¿Hasta qué fecha sigo siendo Monotributista?,temporal
+63,8,¿Cuándo se refleja en el sistema la baja del monotributo por exclusión?,temporal
+64,8,¿A partir de cuándo tiene efecto la exclusión del monotributo?,temporal
+65,8,"Si me dieron de baja por exclusión, ¿a partir de qué momento ya no soy monotributista?",temporal
+66,8,¿Desde qué momento se hace efectiva la baja por exclusión?,temporal
+74,10,¿Cuánto tiempo hacia atrás puedo solicitar la baja del Monotributo?,temporal
+76,10,¿Hasta qué fecha anterior puedo darme de baja?,temporal
+208,28,¿Cuánto tiempo debe transcurrir desde que dejé de importar bienes hasta que me puedo inscribir en el Monotributo?,temporal
+399,50,¿Desde cuándo soy Monotributista?,temporal
+400,50,¿Soy Monotributista desde el día en que me inscribo?,temporal
+402,50,¿El alta del Monotributo depende del día o del mes en que lo haga?,temporal
+404,50,¿A partir de cuándo ya soy monotributista?,temporal
+406,50,¿Cuándo puedo llamarme monotributista si realizo la inscripción hoy?,temporal
+425,53,¿Cuándo pago por primera vez al darme de alta el Monotributo?,temporal
+428,53,"Una vez inscripto, ¿cuándo debo pagar el monotributo por primera vez?",temporal
+429,53,¿Cuánto tiempo me dan para hacer el primer pago al monotributo una vez inscripto?,temporal
+430,53,"Una vez iniciadas las actividades del monotributo, ¿hasta cuándo tengo para realizar el primer pago?",temporal
+432,53,¿Cuándo es mi fecha de vencimiento para realizar el primer pago una vez iniciado las actividades del monotributo?,temporal
+584,72,¿En qué fecha debo realizar la recategorización?,temporal
+586,72,¿Hay una fecha establecida para recategorizarme?,temporal
+587,72,¿Cuándo me debo recategorizar?,temporal
+588,72,¿Cada cuánto tiempo hay que recategorizarse?,temporal
+589,72,¿En qué tiempo se debe realizarse la recategorización?,temporal
+590,72,¿En qué momento se debe realizarse la recategorización?,temporal
+591,72,¿A partir de cuándo se puede llevar a cabo la recategorización?,temporal
+592,72,¿En qué tiempo se puede llevar a cabo la recategorización?,temporal
+593,72,¿En qué momento se puede llevar a cabo la recategorización?,temporal
+624,77,Si me recategorizo ¿Cuándo empiezo a pagar el nuevo importe?,temporal
+625,77,¿A partir de qué momento comienzo a pagar el nuevo importe una vez que me recategorizo?,temporal
+626,77,Luego de la recategorización ¿Desde cuándo pago el importe de la nueva categoría?,temporal
+627,77,Un sujeto recategorizado ¿En qué momento se empieza a pagar el importe de la nueva categoría?,temporal
+628,77,¿En qué momento se empieza a pagar el importe de la nueva categoría para las personas recategorizadas?,temporal
+629,77,¿En qué tiempo se comienza a pagar el importe de la nueva categoría para las personas recategorizadas?,temporal
+630,77,"Una vez efectuada la recategorización, ¿En qué momento se comienza a pagar el importe de la nueva categoría?",temporal
+631,77,"Para el caso de un sujeto recategorizado, ¿En qué tiempo se comienza abonar la nueva categoría?",temporal
+696,86,"Si me recategorizan de oficio, ¿A partir de cuándo paso a la nueva categoría?",temporal
+697,86,¿Desde qué fecha tienen vigencia mi nueva categoría en caso de recategorización de oficio?,temporal
+698,86,"¿La fecha de entrada en vigencia de mi nueva categoría, a raíz de una recategorización de oficio, es la misma que si yo me hubiera recategorizado correctamente?",temporal
+699,86,¿Cuándo se producen efectos de la recategorización de oficio?,temporal
+700,86,¿En qué momento se producen efectos de la recategorización de oficio?,temporal
+701,86,¿En qué momento se producen cambios de la recategorización de oficio?,temporal
+702,86,¿En qué tiempo se producen efectos de la recategorización de oficio?,temporal
+703,86,¿A partir de cuándo producen consecuencias de la recategorización de oficio?,temporal
+791,97,"En el caso de una persona que se adhiere al Monotributo porque realiza una actividad por única vez, ¿Cuánto tiempo mínimo de permanencia se debe cumplir antes de realizar la baja del mismo?",temporal
+793,97,"En el caso de una persona que realiza una actividad temporaria, ¿Qué tiempo mínimo de permanencia se debe cumplir antes de realizar la baja del Monotributo?",temporal
+795,97,¿Cuál es el tiempo mínimo de permanencia que se debe cumplir antes de realizar la baja del Monotributo de una persona que realiza una actividad por única vez?,temporal
+797,97,"Si se tiene el caso de una persona que realiza una actividad temporaria, ¿Cuánto tiempo mínimo de permanencia se debe cumplir antes de realizar la baja del mismo?",temporal
+874,110,"Si soy responsable inscripto en iva, ¿cuánto tiempo debo esperar para poder volver a ser monotributista?",temporal
+878,111,¿Cuando debo pasar a responsable inscripto en IVA si superé el máximo previsto por el regimen?,temporal
+881,111,¿Cuántos meses deben pasar desde que me inscribí en el Monotributo para anualizar los ingresos?,temporal
+883,111,"Soy monotributista y en la anualización he superado el máximo, ¿Cuándo debo pasar a ser responsable inscripto?",temporal
+917,118,¿Cuándo tengo que pagar la primer cuota del monotributo?,temporal
+918,118,¿Cuándo debo pagar la 1era cuota?,temporal
+919,118,"Me he adherido al monotributo, ¿cuando pago la cuota 1?",temporal
+920,118,¿Cuándo pago el primer mes de monotributo?,temporal
+932,121,¿Cuándo vence el monotributo?,temporal
+933,121,¿Cuándo tengo que pagar el mes de monotributo?,temporal
+934,121,¿Qué día vence el monotributo?,temporal
+985,130,Si me doy de baja en el monotributo ¿Desde cuándo tengo que dejar de pagar?,temporal
+986,130,Si solicito la baja del monotributo ¿Cuándo cesa la obligación de pago?,temporal
+987,130,Si dejo de ser monotributista ¿Cuándo debo dejar de pagar?,temporal
+988,130,"Una vez que pedí la baja, ¿cuándo debo dejar de pagar?",temporal
+989,130,"Ya he solicitado la baja, ¿cuándo finaliza la obligación de pago?",temporal
+990,130,¿desde qué periodo ya no debo pagar una vez que pedí la baja?,temporal
+991,130,"Pedí la baja en el monotributo, ¿a partir de que período cesa la obligación de pago?",temporal
+992,130,¿En qué momento finaliza la obligación de pago del monotributo si ya inicié la baja?,temporal
+1039,137,¿Desde qué fecha es la información que figura en el servicio CCMA?,temporal
+1041,137,¿A partir de cuando figura la información en el servicio CCMA?,temporal
+1042,137,¿Desde cuando está la información en el CCMA?,temporal
+1043,137,¿A partir de qué fecha se puede encontrar información en el servicio CCMA?,temporal
+1044,137,¿Desde qué período está la información en el CCMA?,temporal
+1045,137,¿A partir de qué período encuentro información en el servicio CCMA?,temporal
+1144,150,¿Por cuánto tiempo tengo que guardar mis facturas?,temporal
+1146,150,¿Cuánto tiempo debo conservar los comprobantes y documentos?,temporal
+1147,150,¿Cuál es el tiempo máximo que debo guardar los comprobantes?,temporal
+1148,150,¿Es necesario que conserve todos los comprobantes?,temporal
+1149,150,"¿Cuántos años debo mantener los comprobantes, documentos y facturas?",temporal
+1150,150,¿Cuánto tiempo debo conservar los papeles de operaciones relacionadas a mi actividad?,temporal
+1227,4,"En caso de exclusión, ¿Cuánto tiempo se debe de aguardar para volver a adherirse al Monotributo?",temporal
+1228,5,En los casos de baja por renuncia ¿Cuánto tiempo se deberá esperar para volver al Régimen de Monotributo?,temporal
+1229,6,¿A partir de qué momento tiene efectos la cancelación de la inscripción por cese de actividad o renuncia?,temporal
+1232,8,¿A partir de qué momento tiene efectos la baja por exclusión?,temporal
+1274,50,¿A partir de cuándo tiene efectos la adhesión por el monotributo?,temporal
+1277,53,¿Cuándo se debe realizar el primer pago en caso de inicio de actividades?,temporal
+1296,72,¿Cuando debe realizarse la recategorización?,temporal
+1301,77,"Una vez realizada la recategorización, ¿Cuándo se empieza a pagar el importe de la nueva categoría?",temporal
+1310,86,¿A partir de cuándo produce efectos la recategorización de oficio?,temporal
+1336,111,"Una persona que inicia actividad inscribiéndose en el Monotributo, que a la finalización del semestre calendario, por aplicación de la anualización de sus ingresos, supera el máximo previsto por el régimen. ¿Cuándo debe pasar a responsable inscripto en IVA?",temporal
+1343,118,¿Cuándo se debe abonar la primera cuota en caso de adhesión al Monotributo?,temporal
+1346,121,¿Cuál es la fecha de vencimiento de la obligación?,temporal
+1355,130,"En caso de solicitar la baja en el régimen, ¿a partir de que período cesa la obligación de pago?",temporal
+1362,137,¿A partir de qué período figura la información en el servicio CCMA?,temporal
+1375,150,¿Por cuánto tiempo deben conservarse los comprobantes emitidos y recibidos?,temporal
