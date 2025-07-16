@@ -1,0 +1,9 @@
+Genera exclusivamente una lista de preguntas del tipo {label}, 
+relacionadas con el tema Monotributo de AFIP, como si fueran 
+consultas reales que podrían hacer los usuarios. Las preguntas 
+deben compartir la intención del siguiente ejemplo: Ejemplo de 
+pregunta del tipo {label}: {question} 
+Devuelve únicamente una lista numerada con al menos 10 preguntas 
+distintas, todas coherentes con el tipo de intención y el tema. 
+No repitas estructuras exactas. Varía el enfoque, pero mantené 
+la intención de fondo. En español.'
