@@ -1,0 +1,9 @@
+Escribí una pregunta de enfoque que el Texto de Conocimiento dado responde o brinda información. 
+El Texto de Conocimiento está delimitado por {delimitador} 
+
+Texto de Conocimiento:
+{delimitador}
+{conocimiento}
+{delimitador}
+
+Pregunta de Enfoque:

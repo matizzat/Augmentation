@@ -1,0 +1,9 @@
+## Se necesitan los siguientes paquetes para
+## ejecutar las notebooks del proyecto: 
+
+jupyter
+scikit-learn==1.6.1
+setfit
+ipywidgets
+google-genai
+pyvis
