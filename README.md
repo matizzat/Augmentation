@@ -10,3 +10,4 @@
 8. Activar el modelo local
 9. Ejecuten el comando jupyter lab
    
+## Tutorial LMStudio
