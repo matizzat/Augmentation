@@ -6,6 +6,6 @@
 4. Ejecuten el comando conda activate cursoIEEE
 5. Ejecuten el comando conda install pip
 6. Naveguen hacia la carpeta del proyecto.
-7. Ejecuten el comando pip install -r recursos.txt
+7. Ejecuten el comando pip install -r requisitos.txt
 8. Ejecuten el comando jupyter lab
    
