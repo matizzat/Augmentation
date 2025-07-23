@@ -7,5 +7,6 @@
 5. Ejecuten el comando conda install pip
 6. Naveguen hacia la carpeta del proyecto.
 7. Ejecuten el comando pip install -r requisitos.txt
-8. Ejecuten el comando jupyter lab
+8. Activar el modelo local
+9. Ejecuten el comando jupyter lab
    
