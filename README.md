@@ -4,7 +4,7 @@
 
 2. Descarguen este proyecto en su computadora, ya sea con Git o descargando el proyecto como un .zip.
 
-3. Abran una terminal de comandos y ejecuten el siguiente comando: `conda create -n cursoIEEE`. 
+3. Abran una terminal de comandos y ejecuten el comando `conda create -n cursoIEEE`. Esto creará un nuevo ambiente virtual de Python en su computadora donde deberán instalar los paquetes que requiere el curso.  
    
 4. En su computadora, abran una terminal y escriban el siguiente comando: conda create -n cursoIEEE
    
